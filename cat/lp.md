@@ -7,6 +7,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - male
-  - female
-title: cat
+  - Male
+  - Female
+title: Cat

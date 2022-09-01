@@ -1,8 +1,7 @@
-title: male cat
+title: Male Cat
 description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediate
-thumbnail: https://brainarator.s3.amazonaws.com/go.svg
 steps:
 - step1.md
 - step2.md
@@ -12,11 +11,7 @@ steps:
 - step6.md
 license: ""
 isPremium: true
-isNew: false
-isAvailable: false
-authors: []
-isDraft: false
-state: draft
+isNew: true
+isAvailable: true
 environmentvars: {}
 environment: ""
-image: ""
