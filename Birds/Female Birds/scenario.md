@@ -8,4 +8,3 @@ license: Apache
 isNew: true
 isPremium: true
 isAvailable: true
-points: 1
