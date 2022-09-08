@@ -1,5 +1,5 @@
 title: Female Birds
-description: GoLangTestingLearingPathDescription 1
+description: updated description
 time: 5 minutes
 level: beginner
 steps:
