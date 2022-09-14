@@ -9,4 +9,3 @@ license: Apache
 scenarioCount: 0
 scenarios:
   - Female Lions
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/istio.png
