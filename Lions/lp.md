@@ -6,7 +6,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-type: public
 scenarioCount: 0
 scenarios:
   - Female Lions
