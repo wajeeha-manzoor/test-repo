@@ -1,4 +1,4 @@
-title: Lions
+title: lions
 categories:
   - Istio
 description: new lp.md description
