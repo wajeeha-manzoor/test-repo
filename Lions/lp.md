@@ -1,4 +1,4 @@
-title: Lionsss
+title: Lion
 categories:
   - Istio
 description: new lp.md description
