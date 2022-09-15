@@ -9,4 +9,3 @@ license: Apache
 scenarioCount: 1
 scenarios:
   - Female Lions
-  - abcssssss
