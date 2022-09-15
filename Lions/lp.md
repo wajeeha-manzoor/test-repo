@@ -1,7 +1,7 @@
 title: Lions
 categories:
   - Istio
-description: Conflict check LP test
+description: new lp.md description
 isAvailable: true
 isNew: true
 isPremium: true
