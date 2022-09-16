@@ -9,3 +9,4 @@ license: Apache
 scenarioCount: 1
 scenarios:
   - Female Camels
+  - Male Camels
