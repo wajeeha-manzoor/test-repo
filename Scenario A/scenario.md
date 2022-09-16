@@ -1,4 +1,4 @@
-title: Chairs
+title: Scenario A
 description: hello new description
 time: 5 minutes
 level: beginner
