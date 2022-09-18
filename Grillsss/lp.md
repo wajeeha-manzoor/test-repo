@@ -1,4 +1,4 @@
-title: Grillss
+title: Grillsss
 categories:
   - Istio
 description: new lp.md description
@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - White Grillss
-  - Black Grillss
+  - White Grillsss
+  - Black Grillsss
