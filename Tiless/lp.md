@@ -1,4 +1,4 @@
-title: Tiles
+title: Tiless
 categories:
   - Istio
 description: new lp.md description
@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - White Tiles
-  - Black Tiles
+  - White Tiless
+  - Black Tiless
