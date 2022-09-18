@@ -1,4 +1,4 @@
-title: Doorss
+title: Doorsss
 categories:
   - Istio
 description: new lp.md description
@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - White Doorss
-  - Black Doorss
+  - White Doorsss
+  - Black Doorsss
