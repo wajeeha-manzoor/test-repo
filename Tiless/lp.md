@@ -10,3 +10,4 @@ scenarioCount: 1
 scenarios:
   - White Tiless
   - Black Tiless
+  - Red Tiless
