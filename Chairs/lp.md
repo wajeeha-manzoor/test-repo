@@ -1,4 +1,4 @@
-title: Tables
+title: Chairs
 categories:
   - Istio
 description: new lp.md description
@@ -6,8 +6,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 3
+scenarioCount: 1
 scenarios:
-  - White Tables
-  - Black Tables
-  - Red Tables
+  - New Chairs
