@@ -9,3 +9,4 @@ license: Apache
 scenarioCount: 1
 scenarios:
   - New Chairs
+  - Old Chairs
