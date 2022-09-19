@@ -1,4 +1,4 @@
-title: Black Chairs
+title: Black Tables
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 minutes
 level: beginner
