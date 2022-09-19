@@ -1,4 +1,4 @@
-title: Tiless
+title: Chairs
 categories:
   - Istio
 description: new lp.md description
@@ -8,6 +8,4 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - White Tiless
-  - Black Tiless
-  - Red Tiless
+  - White Chairs
