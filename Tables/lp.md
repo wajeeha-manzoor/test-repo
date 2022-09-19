@@ -8,6 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 3
 scenarios:
-  - White Tables
   - Black Tables
   - Red Tables
