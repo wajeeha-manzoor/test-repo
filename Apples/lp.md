@@ -1,4 +1,4 @@
-title: Bags
+title: Apples
 categories:
   - Istio
 description: new lp.md description
@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 0
 scenarios: 
-    - Red Bags
-    - Black Bags
+    - Red Apples
+    - Blue Apples
