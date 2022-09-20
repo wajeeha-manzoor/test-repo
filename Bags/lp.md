@@ -9,3 +9,4 @@ license: Apache
 scenarioCount: 0
 scenarios: 
     - Red Bags
+    - Black Bags
