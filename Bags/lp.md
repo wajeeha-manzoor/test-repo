@@ -7,4 +7,4 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 0
-scenarios:[]
+scenarios: []
