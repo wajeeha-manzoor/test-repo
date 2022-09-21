@@ -1,4 +1,4 @@
-title: Appless
+title: Sofas
 categories:
   - Istio
 description: new lp.md description
@@ -8,4 +8,4 @@ isPremium: true
 license: Apache
 scenarioCount: 0
 scenarios: 
-    - Red Appless
+    - Red Sofas
