@@ -1,4 +1,4 @@
-title: Yellow Seats
+title: Yellow Lamps
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 minutes
 level: beginner

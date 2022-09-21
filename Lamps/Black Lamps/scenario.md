@@ -1,4 +1,4 @@
-title: Black Seats
+title: Black Lamps
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 minutes
 level: beginner

@@ -1,4 +1,4 @@
-title: Blue Seats
+title: Blue Lamps
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 minutes
 level: beginner

@@ -1,4 +1,4 @@
-title: Seats
+title: Lamps
 categories:
   - Istio
 description: new lp.md description
@@ -8,7 +8,6 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-    - Blue Seats
-    - Red Seats
-    - Black Seats
-    - Yellow Seats
+    - Red Lamps
+    - Black Lamps
+    - Yellow Lamps
