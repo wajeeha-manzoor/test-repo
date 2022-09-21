@@ -8,6 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Sheets First Copy
   - Sheets Second Copy
 
