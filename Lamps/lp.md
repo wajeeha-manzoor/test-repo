@@ -10,3 +10,4 @@ scenarioCount: 1
 scenarios:
     - Blue Lamps
     - Red Lamps
+    - Black Lamps
