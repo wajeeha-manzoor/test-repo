@@ -1,4 +1,4 @@
-title: Captain America
+title: Captain america
 categories:
   - Istio
 description: new lp.md description
