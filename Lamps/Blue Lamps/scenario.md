@@ -1,4 +1,4 @@
-title: Red Lamps
+title: Blue Lamps
 description: updated description abcdsdasfsdsaadsSFDSA
 time: 5 minutes
 level: beginner
