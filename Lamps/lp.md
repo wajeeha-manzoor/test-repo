@@ -11,3 +11,4 @@ scenarios:
     - Blue Lamps
     - Red Lamps
     - Black Lamps
+    - Yellow Lamps
