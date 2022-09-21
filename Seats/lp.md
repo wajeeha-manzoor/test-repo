@@ -6,7 +6,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 1
+scenarioCount: 4
 scenarios:
     - Blue Seats
     - Red Seats
