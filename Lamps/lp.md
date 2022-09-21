@@ -8,6 +8,6 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-    - Red Lamps
+    - Blue Lamps
     - Black Lamps
     - Yellow Lamps

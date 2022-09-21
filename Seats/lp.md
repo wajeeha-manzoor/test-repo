@@ -11,4 +11,3 @@ scenarios:
     - Blue Seats
     - Red Seats
     - Black Seats
-    - Yellow Seats
