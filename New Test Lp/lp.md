@@ -1,4 +1,4 @@
-title: Abcdef Copy
+title: Lamps
 categories:
   - Istio
 description: new lp.md description
@@ -8,4 +8,4 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Apple
+    - Apple
