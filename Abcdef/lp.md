@@ -7,4 +7,5 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 1
-scenarios: []
+scenarios:
+  - Red Abcdef
