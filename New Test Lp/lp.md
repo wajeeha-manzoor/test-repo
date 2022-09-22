@@ -1,4 +1,4 @@
-title: Lamps
+title: New Test Lp
 categories:
   - Istio
 description: new lp.md description
