@@ -1,4 +1,4 @@
-title: Lp Copy
+title: Lp Copy One
 categories:
   - Istio
 description: new lp.md description
