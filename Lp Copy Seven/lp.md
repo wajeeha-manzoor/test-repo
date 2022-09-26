@@ -9,4 +9,4 @@ license: Apache
 scenarioCount: 1
 scenarios:
     - Apple
-    - Samsung
+    - Moto
