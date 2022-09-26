@@ -1,4 +1,4 @@
-title: Lp Nine
+title: Lp Ten
 categories:
   - Istio
 description: new lp.md description
@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-    - Nine One
-    - Nine Three
+    - Ten One
+    - Ten Two
